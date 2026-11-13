@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Ghost Launcher
+Comment=Run Windows games through Proton
+Exec=ghostlauncher
+Icon=applications-games
+Categories=Game;
+Terminal=false
